@@ -2,10 +2,10 @@
 title: "자본 비대칭 활용 트레이딩 전략 — 거대 자본의 지연과 개인의 기동성"
 date: 2026-04-30
 tags: [자본비대칭, 전략, 시장미시구조]
-canonical_url: https://daehyoung.github.io/stock/trading-strategy/02-capital-asymmetry/
+canonical_url: https://daehyoung.github.io/stock/trading-strategy/01-capital-asymmetry/
 license: CC BY-NC 4.0
 series: "트레이딩 전략"
-series_order: 2
+series_order: 1
 ---
 
 ## 거대 자본의 시간 지연과 개인의 기동성을 활용한 비대칭 베팅 프레임워크
@@ -919,4 +919,4 @@ LG전자 케이스에서 향후 시나리오:
 
 ---
 
-> 📚 「트레이딩 전략」 시리즈 · 2편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
+> 📚 「트레이딩 전략」 시리즈 · 1편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.

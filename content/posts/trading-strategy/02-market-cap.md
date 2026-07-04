@@ -2,10 +2,10 @@
 title: "시가총액 구간별 트레이딩 전략 — 어디서 거래할 것인가"
 date: 2026-04-30
 tags: [시가총액, 전략, 와이코프]
-canonical_url: https://daehyoung.github.io/stock/trading-strategy/01-market-cap/
+canonical_url: https://daehyoung.github.io/stock/trading-strategy/02-market-cap/
 license: CC BY-NC 4.0
 series: "트레이딩 전략"
-series_order: 1
+series_order: 2
 ---
 
 **대상 시장**: KOSPI / KOSDAQ
@@ -718,4 +718,4 @@ LG전자는 **Core 자산**으로서 다음 원칙으로 운영한다:
 
 ---
 
-> 📚 「트레이딩 전략」 시리즈 · 1편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
+> 📚 「트레이딩 전략」 시리즈 · 2편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
