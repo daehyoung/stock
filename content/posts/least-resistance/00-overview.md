@@ -18,10 +18,10 @@ series_label: "개요"
 
 ## 목차
 
-- **우화** — [내가 산 주식이 안 오르는 이유](/stock/least-resistance/01-parable/): 최소저항 경로를 우화로 풀다.
-- **2편** — [최소저항 경로의 법칙: 세 거장의 계보](/stock/least-resistance/02-three-masters/): 리버모어·와이코프·오닐이 본 하나의 진실.
-- **3편** — [스마트머니가 '개미'와 같은 버스에 타기 싫어하는 이유](/stock/least-resistance/03-smart-money-bus/): 세력이 개인과 동선을 겹치지 않으려는 이유.
+- [내가 산 주식이 안 오르는 이유](/stock/least-resistance/01-parable/): 최소저항 경로를 우화로 풀다.
 
+- [스마트머니가 '개미'와 같은 버스에 타기 싫어하는 이유](/stock/least-resistance/02-smart-money-bus/): 세력이 개인과 동선을 겹치지 않으려는 이유.
+- [최소저항 경로의 법칙: 세 거장의 계보](/stock/least-resistance/03-three-masters/): 리버모어·와이코프·오닐이 본 하나의 진실.
 ---
 
 > 다른 시리즈·글은 [트레이딩 인사이트 홈](/stock/)에서.
