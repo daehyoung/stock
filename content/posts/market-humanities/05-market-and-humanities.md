@@ -3,9 +3,9 @@ title: "시장과 인문학 — 왜 문학·역사·철학인가"
 date: 2026-04-21
 tags: [내러티브, 시장심리, 인문학, 매트릭스]
 license: CC BY-NC 4.0
-canonical_url: https://daehyoung.github.io/stock/market-humanities/07-market-and-humanities/
+canonical_url: https://daehyoung.github.io/stock/market-humanities/05-market-and-humanities/
 series: "시장의 인문학"
-series_order: 7
+series_order: 5
 coauthor: "Claude Opus 4.8"
 ---
 
@@ -35,7 +35,7 @@ coauthor: "Claude Opus 4.8"
 
 재무제표는 기업의 과거를, 차트는 가격의 과거를 보여준다. 그러나 **대중이 왜 특정 내러티브에 반응하고 왜 멈추는가**는 인간에 대한 이해 없이는 읽을 수 없다. 기술적 분석은 도구이고 펀더멘털은 토대이지만, 승부를 가르는 마지막 무기는 **인간에 대한 이해**다.
 
-일곱 편을 지나오며 우리는 하나의 눈을 길렀다. 원인과 결과의 착각을 벗고, 완곡어법을 직역하고, 인과를 조립하는 손과 그들이 파는 명분을 보고, 논리 뒤의 포지션을 읽고, 감정이 아니라 규칙으로 살아남는 눈.
+다섯 편을 지나오며 우리는 하나의 눈을 길렀다. 원인과 결과의 착각을 벗고, 완곡어법을 직역하고, 인과를 조립하는 손과 그들이 파는 명분을 보고, 논리 뒤의 포지션을 읽고, 감정이 아니라 규칙으로 살아남는 눈.
 
 > **무엇이 사실인가에 매몰되면 당하고, 누가·왜·지금 이 이야기를 유통시키는가를 읽으면 살아남는다.**
 
@@ -43,8 +43,8 @@ coauthor: "Claude Opus 4.8"
 
 ---
 
-> **「시장의 인문학」 시리즈** · 7편 (3막 처방) · *마지막 글*
-> 이전 → [6편 · 그래서 어떻게 할 것인가](/stock/market-humanities/06-how-to-survive/)
+> **「시장의 인문학」 시리즈** · 5편 (3막 처방) · *마지막 글*
+> 이전 → [4편 · 매트릭스에서 살아남기](/stock/market-humanities/04-how-to-survive/)
 > [시리즈 목차](/stock/market-humanities/00-overview/)
 
 *※ 이 글은 특정 종목·방향에 대한 투자 권유가 아니라, 시장을 읽는 하나의 사고 프레임입니다. 투자 판단과 책임은 본인에게 있습니다.*

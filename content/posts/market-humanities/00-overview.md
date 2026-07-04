@@ -25,19 +25,17 @@ coauthor: "Claude Opus 4.8"
 
 ## 구성 — 3막
 
-- **1막 · 매트릭스를 보다 (진단)** — 1~3편
-- **2막 · 매트릭스의 문법 (작동 원리)** — 4~5편
-- **3막 · 매트릭스에서 살아남기 (처방)** — 6~7편
+- **1막 · 매트릭스를 보다 (진단)** — 1~2편
+- **2막 · 매트릭스의 문법 (작동 원리)** — 3편
+- **3막 · 매트릭스에서 살아남기 (처방)** — 4~5편
 
 ## 목차
 
-- **1편** — [원인과 결과라는 착각: 매트릭스 안의 시장](/stock/market-humanities/01-illusion-of-causality/): 같은 뉴스가 어제는 하락, 오늘은 상승 이유. 주가가 먼저, 이유는 나중.
-- **2편** — [완곡어법 사전: 감각을 마비시키는 말들](/stock/market-humanities/02-euphemism-dictionary/): 기간조정·가격조정·저점테스트의 진짜 뜻.
-- **3편** — [탐욕·공포, 그리고 권력: 인과를 조립하는 손](/stock/market-humanities/03-greed-fear-power/): "올리려고 호재 타이밍을 맞춘다" — 축적→호재→유입→마크업.
-- **4편** — [대의명분이 필요한 이유: 권력은 스토리로 유지된다](/stock/market-humanities/04-narrative-legitimacy/): 잠깐 올릴 뿐, 유지엔 명분이 필요하다. 진짜 어장은 코스피.
-- **5편** — [시장은 논리로 싸운다: 강세론 vs 약세론의 랩 배틀](/stock/market-humanities/05-bull-vs-bear/): 내러티브의 생성과 유통, 낙관의 상상 vs 비관의 상상.
-- **6편** — [그래서 어떻게 할 것인가: 매트릭스에서 살아남기](/stock/market-humanities/06-how-to-survive/): 멀리 보기·인과 뒤집기·노이즈/시그널·전략대로.
-- **7편** — [시장과 인문학: 왜 문학·역사·철학인가](/stock/market-humanities/07-market-and-humanities/): 시장을 읽는 건 인간을 읽는 것.
+- **1편** — [원인과 결과라는 착각: 매트릭스와 완곡어법](/stock/market-humanities/01-illusion-of-causality/): 같은 뉴스가 어제는 하락, 오늘은 상승 이유. 주가가 먼저·이유는 나중, 그리고 감각을 마비시키는 완곡어법.
+- **2편** — [탐욕·공포, 그리고 권력](/stock/market-humanities/02-greed-fear-power/): 겉명분↔속마음. "올리려고 호재 타이밍을 맞춘다" — 축적→호재→유입→마크업. 조선 당쟁·세도정치까지.
+- **3편** — [내러티브의 문법: 대의명분과 강세·약세의 논리 싸움](/stock/market-humanities/03-narrative-and-battle/): 왜 명분이 필요한가(권력은 스토리로 유지된다) + 강세론 vs 약세론. 진짜 어장은 코스피.
+- **4편** — [매트릭스에서 살아남기](/stock/market-humanities/04-how-to-survive/): 멀리 보기·인과 뒤집기·노이즈/시그널·권력의 편에 서기·판(주도 섹터) 고르기.
+- **5편** — [시장과 인문학: 왜 문학·역사·철학인가](/stock/market-humanities/05-market-and-humanities/): 시장을 읽는 건 인간을 읽는 것.
 
 ---
 

@@ -3,9 +3,9 @@ title: "그래서 어떻게 할 것인가 — 매트릭스에서 살아남기"
 date: 2026-04-20
 tags: [내러티브, 시장심리, 트레이딩, 매트릭스]
 license: CC BY-NC 4.0
-canonical_url: https://daehyoung.github.io/stock/market-humanities/06-how-to-survive/
+canonical_url: https://daehyoung.github.io/stock/market-humanities/04-how-to-survive/
 series: "시장의 인문학"
-series_order: 6
+series_order: 4
 coauthor: "Claude Opus 4.8"
 ---
 
@@ -71,8 +71,8 @@ coauthor: "Claude Opus 4.8"
 
 ---
 
-> **「시장의 인문학」 시리즈** · 6편 (3막 처방)
-> 이전 → [5편 · 시장은 논리로 싸운다](/stock/market-humanities/05-bull-vs-bear/) · 다음 → [7편 · 시장과 인문학](/stock/market-humanities/07-market-and-humanities/)
+> **「시장의 인문학」 시리즈** · 4편 (3막 처방)
+> 이전 → [3편 · 내러티브의 문법](/stock/market-humanities/03-narrative-and-battle/) · 다음 → [5편 · 시장과 인문학](/stock/market-humanities/05-market-and-humanities/)
 > [시리즈 목차](/stock/market-humanities/00-overview/)
 
 *※ 이 글은 특정 종목·방향에 대한 투자 권유가 아니라, 시장을 읽는 하나의 사고 프레임입니다. 투자 판단과 책임은 본인에게 있습니다.*
