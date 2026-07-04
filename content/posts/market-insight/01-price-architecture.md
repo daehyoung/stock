@@ -2,10 +2,10 @@
 title: "가격의 건축학 — Market Structure와 유동성의 본질"
 date: 2026-01-15
 tags: [시장구조, 유동성]
-canonical_url: https://daehyoung.github.io/stock/least-resistance/03-price-architecture/
+canonical_url: https://daehyoung.github.io/stock/market-insight/01-price-architecture/
 license: CC BY-NC 4.0
-series: "최소저항 경로의 법칙"
-series_order: 3
+series: "마켓 인사이트"
+series_order: 1
 coauthor: "Gemini Pro"
 ---
 
@@ -127,4 +127,4 @@ Market Structure를 분석한다는 것은 단순히 고점과 저점을 잇는 
 
 ---
 
-> 📚 「최소저항 경로의 법칙」 시리즈 · 3편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
+> 📚 「마켓 인사이트」 시리즈 · 1편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.

@@ -2,10 +2,10 @@
 title: "시장의 내력벽을 두드리는 법 — 테스트와 최소저항 경로"
 date: 2026-01-15
 tags: [테스트, 시장구조]
-canonical_url: https://daehyoung.github.io/stock/least-resistance/04-load-bearing-wall/
+canonical_url: https://daehyoung.github.io/stock/market-insight/02-load-bearing-wall/
 license: CC BY-NC 4.0
-series: "최소저항 경로의 법칙"
-series_order: 4
+series: "마켓 인사이트"
+series_order: 2
 coauthor: "Gemini Pro"
 ---
 
@@ -122,4 +122,4 @@ coauthor: "Gemini Pro"
 
 ---
 
-> 📚 「최소저항 경로의 법칙」 시리즈 · 4편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
+> 📚 「마켓 인사이트」 시리즈 · 2편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.

@@ -2,10 +2,10 @@
 title: "스마트 머니의 길을 묻다 — 최소 저항 경로의 법칙과 유동성"
 date: 2026-01-15
 tags: [스마트머니, 유동성]
-canonical_url: https://daehyoung.github.io/stock/least-resistance/06-smart-money-path/
+canonical_url: https://daehyoung.github.io/stock/market-insight/04-smart-money-path/
 license: CC BY-NC 4.0
-series: "최소저항 경로의 법칙"
-series_order: 6
+series: "마켓 인사이트"
+series_order: 4
 coauthor: "Gemini3 Pro"
 ---
 
@@ -124,4 +124,4 @@ coauthor: "Gemini3 Pro"
 
 ---
 
-> 📚 「최소저항 경로의 법칙」 시리즈 · 6편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
+> 📚 「마켓 인사이트」 시리즈 · 4편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.

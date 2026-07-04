@@ -2,10 +2,10 @@
 title: "테스트 — 벽을 두드리는 게 아니라 '철거 완료'를 확인하는 것"
 date: 2026-01-15
 tags: [테스트, 와이코프]
-canonical_url: https://daehyoung.github.io/stock/least-resistance/05-test/
+canonical_url: https://daehyoung.github.io/stock/market-insight/03-test/
 license: CC BY-NC 4.0
-series: "최소저항 경로의 법칙"
-series_order: 5
+series: "마켓 인사이트"
+series_order: 3
 coauthor: "Gemini3 Pro"
 ---
 
@@ -73,4 +73,4 @@ coauthor: "Gemini3 Pro"
 
 ---
 
-> 📚 「최소저항 경로의 법칙」 시리즈 · 5편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
+> 📚 「마켓 인사이트」 시리즈 · 3편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.

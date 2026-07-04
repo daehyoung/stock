@@ -2,10 +2,10 @@
 title: "스마트머니가 '개미'와 같은 버스에 타기 싫어하는 이유"
 date: 2026-04-29
 tags: [스마트머니]
-canonical_url: https://daehyoung.github.io/stock/least-resistance/07-smart-money-bus/
+canonical_url: https://daehyoung.github.io/stock/least-resistance/03-smart-money-bus/
 license: CC BY-NC 4.0
 series: "최소저항 경로의 법칙"
-series_order: 7
+series_order: 3
 ---
 
 ## 스마트머니가 '개미'와 같은 버스에 타기 싫어하는 이유
@@ -36,4 +36,4 @@ series_order: 7
 
 ---
 
-> 📚 「최소저항 경로의 법칙」 시리즈 · 7편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
+> 📚 「최소저항 경로의 법칙」 시리즈 · 3편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
