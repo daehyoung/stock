@@ -2,10 +2,10 @@
 title: "최소저항 경로의 법칙 — 리버모어·와이코프·오닐의 계보"
 date: 2026-04-29
 tags: [리버모어, 와이코프]
-canonical_url: https://daehyoung.github.io/stock/least-resistance/02-three-masters/
+canonical_url: https://daehyoung.github.io/stock/least-resistance/03-three-masters/
 license: CC BY-NC 4.0
 series: "최소저항 경로의 법칙"
-series_order: 2
+series_order: 3
 coauthor: "Claude Opus 4.6"
 ---
 
@@ -163,4 +163,4 @@ KOSPI는 이 점에서 흥미로운 시장이다. 일별 외국인/기관 순매
 
 ---
 
-> 📚 「최소저항 경로의 법칙」 시리즈 · 2편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
+> 📚 「최소저항 경로의 법칙」 시리즈 · 3편. 다른 글은 [트레이딩 인사이트 홈](/stock/)에서.
