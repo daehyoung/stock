@@ -26,7 +26,22 @@ for (const p of all.filter((p) => p.data.series)) {
 for (const arr of seriesMap.values()) {
   arr.sort((a, b) => (a.data.series_order ?? 0) - (b.data.series_order ?? 0));
 }
-const seriesList = [...seriesMap.entries()];
+// 메인페이지 시리즈 노출 순서(명시적). 목록에 없는 시리즈는 뒤에 붙는다.
+const SERIES_ORDER = [
+  '시장의 인문학',
+  '최소저항 경로의 법칙',
+  '마켓 인사이트',
+  '시장의 물리학',
+  '트레이딩',
+  '트레이딩 전략',
+];
+const seriesRank = (name: string) => {
+  const i = SERIES_ORDER.indexOf(name);
+  return i === -1 ? SERIES_ORDER.length : i;
+};
+const seriesList = [...seriesMap.entries()].sort(
+  (a, b) => seriesRank(a[0]) - seriesRank(b[0]),
+);
 ---
 
 <Layout
