@@ -12,6 +12,7 @@ const posts = defineCollection({
     canonical_url: z.string().url().optional(),
     license: z.string().optional(),
     draft: z.boolean().optional(),
+    coauthor: z.string().optional(),
     // 시리즈 추적 (원본 ↔ 분할 관계)
     series: z.string().optional(),
     series_order: z.number().optional(),

@@ -1,6 +1,8 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import mermaid from 'astro-mermaid';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 
 // https://astro.build/config
 export default defineConfig({
@@ -11,6 +13,8 @@ export default defineConfig({
   integrations: [mermaid({ theme: 'default', autoTheme: true })],
   // 코드블록: 라이트/다크 듀얼 테마 (CSS의 data-theme로 전환)
   markdown: {
+    remarkPlugins: [remarkMath],
+    rehypePlugins: [[rehypeKatex, { strict: false }]],
     shikiConfig: {
       themes: { light: 'github-light', dark: 'github-dark' },
       defaultColor: false,
