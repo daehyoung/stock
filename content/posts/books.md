@@ -56,7 +56,6 @@ license: CC BY-NC 4.0
 |제목|저자/번역|출판사|원제|
 |---|---|---|---|
 |나쁜 사마리아인들|장하준/이순희 역|부키|Bad Samaritans|
-|사다리 걷어차기|장하준/형성백 역|부키|Kicking Away the Ladder|
 |국가는 왜 실패하는가|애쓰모글루·로빈슨/최완규 역|시공사|Why Nations Fail|
 |죽은 경제학자의 살아있는 아이디어|토드 부크홀츠|김영사|New Ideas from Dead Economists|
 |프로테스탄티즘의 윤리와 자본주의 정신|막스 베버|여러 역본|The Protestant Ethic and the Spirit of Capitalism (1905)|
