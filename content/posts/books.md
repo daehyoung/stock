@@ -39,6 +39,9 @@ license: CC BY-NC 4.0
 |역사란 무엇인가|E. H. 카/김택현 역|까치|What Is History? (1961)|
 |여론조작|놈 촘스키·에드워드 허먼|에코리브르|Manufacturing Consent|
 |누가 세상을 지배하는가|놈 촘스키|문예출판사|Who Rules the World?|
+|국가(동굴의 비유)|플라톤/여러 역본|—|Republic·Politeia|
+|신기관|프랜시스 베이컨/여러 역본|—|Novum Organum (1620)|
+|악령이 출몰하는 세상|칼 세이건|사이언스북스|The Demon-Haunted World (1995)|
 
 ### 역사·권력·전략의 고전 — 권력이 작동하는 원전
 
